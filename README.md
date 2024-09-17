@@ -4,7 +4,7 @@ This repository contains the coursework assignments for the **CS50060 Advanced C
 
 ## Instructor
 **Prof. Bheemarjuna Reddy Tamma**  
-Department of Computer Science and Engineering
+Department of Computer Science and Engineering   
 Indian Institute of Technology, Hyderabad
 
 ## Course Overview
